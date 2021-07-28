@@ -1,8 +1,5 @@
 <h1 align="center"> Hi there! 👋 </h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://unchase.ru">
-    <img src="https://img.shields.io/badge/Website-unchase.ru-informational?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a target="_blank" href="https://dev.to/chrisgate">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
