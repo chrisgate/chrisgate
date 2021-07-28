@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <samp>I'm <b>Chris Godwin (chrisgate)</b> - a .NET Developer, Tech Enthusiast,Game Enthusiast, Mobile Developer and Mixed Reality,Security Researcher from Nigeria, West Africa. I mostly deal with ASP.NET Core and Mobile development stack these days. Specialist Degree in Computer Science. I have 7+ years of development experience in architecting, designing & development of web and mobile applications across various domains using .NET,Dart and Web technologies.
+  <samp>I'm <b>Chris Godwin (chrisgate)</b> - a .NET Developer, Tech Enthusiast,Game Enthusiast, Mobile Developer and Mixed Reality,Security Researcher from Nigeria, West Africa. I mostly deal with ASP.NET Core and Mobile development stack these days. Specialist First & Second Degree in Computer Science. I have 7+ years of development experience in architecting, designing & development of web and mobile applications across various domains using .NET,Dart and Web technologies.
   </samp>
   <br/>
   <br/>
