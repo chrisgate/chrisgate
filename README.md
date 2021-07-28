@@ -1,11 +1,5 @@
 <h1 align="center"> Hi there! 👋 </h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://dev.to/chrisgate">
-    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://medium.com/@chrisgate">
-    <img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a target="_blank" href="https://twitter.com/chrisgate">
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
