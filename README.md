@@ -32,7 +32,8 @@
   <a target="_blank" href="https://github.com/chrisgate?tab=repositories&q=&type=&language=css">
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
   </a>
-
+  <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
   <a target="_blank" href="https://github.com/chrisgate?tab=repositories&q=&type=&language=c%23">
     <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   </a>
@@ -40,14 +41,13 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&textColor=black" />
  
   <img alt="VS" src="https://img.shields.io/badge/-VS-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
+
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 </p>
 
 |Technology|Progress|
 |:-:|:-:|
-|**Web&#160;Development**<br>**ASP.NET Core**<br>**Dart:Flutter**<br>**OpenAPI**<br>**C# Unity:Game**<br>**Mixed Reality**|<img alt="dino" src="https://github.com/chrisgate/chrisgate/blob/master/dino.gif" /> |
+|**Web&#160;Development**<br>**Javascript**<br>**Typyscript**<br>**NodeJs**<br>**ReactJs**<br>**ASP.NET Core**<br>**Dart:Flutter**<br>**OpenAPI**<br>**C# Unity:Game**<br>**Mixed Reality**|<img alt="dino" src="https://github.com/chrisgate/chrisgate/blob/master/dino.gif" /> |
 
 <h2 align="center">⚡ GitHub Stats</h2>
 
