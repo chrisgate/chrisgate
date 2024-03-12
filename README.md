@@ -8,7 +8,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
   <a target="_blank" rel="nofollow" href="https://github.com/chrisgate">
-    <img align="right" src="https://gpvc.arturio.dev/chrisgate?style=for-the-badge" alt="https://github.com/chrisgate" />
+    <img align="right" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/chrisgate" />
   <a/>
 </p>
 
