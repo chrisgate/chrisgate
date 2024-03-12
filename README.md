@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! 👋 </h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://twitter.com/chrisgate">
+  <a target="_blank" href="https://x.com/chrisgate">
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   
@@ -51,12 +51,8 @@
 
 <h2 align="center">⚡ GitHub Stats</h2>
 
-<p align = "center">
-  <a href="https://github.com/chrisgate">
-    <img src = "https://github-readme-stats.vercel.app/api?username=chrisgate&show_icons=true&line_height=27">
-  </a>
-  <a href="https://github.com/chrisgate">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgate&hide=css,html">
-  </a>
-</p>
- 
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisgate&layout=pie&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisgate&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chrisgate&layout=compact&theme=radical" />
+ </div>
